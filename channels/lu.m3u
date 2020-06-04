@@ -1,0 +1,129 @@
+ #EXTINF:-1,Macau
+ channels/mo.m3u
+ #EXTINF:-1,North Macedonia
+ channels/mk.m3u
+ #EXTINF:-1,Madagascar
+ channels/mg.m3u
+ #EXTINF:-1,Malaysia
+ 	@@ -219,6 +217,8 @@ channels/ne.m3u
+ channels/ng.m3u
+ #EXTINF:-1,North Korea
+ channels/kp.m3u
+ #EXTINF:-1,North Macedonia
+ channels/mk.m3u
+ #EXTINF:-1,Norway
+ channels/no.m3u
+ #EXTINF:-1,Oman
+channels/om.m3u
+#EXTINF:-1,Pakistan
+channels/pk.m3u
+#EXTINF:-1,Palestine
+channels/ps.m3u
+#EXTINF:-1,Panama
+channels/pa.m3u
+#EXTINF:-1,Paraguay
+channels/py.m3u
+#EXTINF:-1,Peru
+channels/pe.m3u
+#EXTINF:-1,Philippines
+channels/ph.m3u
+#EXTINF:-1,Poland
+channels/pl.m3u
+#EXTINF:-1,Portugal
+channels/pt.m3u
+#EXTINF:-1,Puerto Rico
+channels/pr.m3u
+#EXTINF:-1,Qatar
+channels/qa.m3u
+#EXTINF:-1,Republic of the Congo
+channels/cg.m3u
+#EXTINF:-1,Romania
+channels/ro.m3u
+#EXTINF:-1,Russia
+channels/ru.m3u
+#EXTINF:-1,Rwanda
+channels/rw.m3u
+#EXTINF:-1,Saint Kitts and Nevis
+channels/kn.m3u
+#EXTINF:-1,San Marino
+channels/sm.m3u
+#EXTINF:-1,Saudi Arabia
+channels/sa.m3u
+#EXTINF:-1,Senegal
+channels/sn.m3u
+#EXTINF:-1,Serbia
+channels/rs.m3u
+#EXTINF:-1,Sierra Leone
+channels/sl.m3u
+#EXTINF:-1,Singapore
+channels/sg.m3u
+#EXTINF:-1,Sint Maarten
+channels/sx.m3u
+#EXTINF:-1,Slovakia
+channels/sk.m3u
+#EXTINF:-1,Slovenia
+channels/si.m3u
+#EXTINF:-1,Somalia
+channels/so.m3u
+#EXTINF:-1,South Africa
+channels/za.m3u
+#EXTINF:-1,South Korea
+channels/kr.m3u
+#EXTINF:-1,Spain
+channels/es.m3u
+#EXTINF:-1,Sri Lanka
+channels/lk.m3u
+#EXTINF:-1,Sudan
+channels/sd.m3u
+#EXTINF:-1,Suriname
+channels/sr.m3u
+#EXTINF:-1,Sweden
+channels/se.m3u
+#EXTINF:-1,Switzerland
+channels/ch.m3u
+#EXTINF:-1,Syria
+channels/sy.m3u
+#EXTINF:-1,Taiwan
+channels/tw.m3u
+#EXTINF:-1,Tajikistan
+channels/tj.m3u
+#EXTINF:-1,Tanzania
+channels/tz.m3u
+#EXTINF:-1,Thailand
+channels/th.m3u
+#EXTINF:-1,Togo
+channels/tg.m3u
+#EXTINF:-1,Trinidad and Tobago
+channels/tt.m3u
+#EXTINF:-1,Tunisia
+channels/tn.m3u
+#EXTINF:-1,Turkey
+channels/tr.m3u
+#EXTINF:-1,Turkmenistan
+channels/tm.m3u
+#EXTINF:-1,Uganda
+channels/ug.m3u
+#EXTINF:-1,Ukraine
+channels/ua.m3u
+#EXTINF:-1,United Arab Emirates
+channels/ae.m3u
+#EXTINF:-1,United Kingdom
+channels/uk.m3u
+#EXTINF:-1,United States
+channels/us.m3u
+#EXTINF:-1,Uruguay
+channels/uy.m3u
+#EXTINF:-1,Uzbekistan
+channels/uz.m3u
+#EXTINF:-1,Venezuela
+channels/ve.m3u
+#EXTINF:-1,Vietnam
+channels/vn.m3u
+#EXTINF:-1,Virgin Islands of the United States
+channels/vi.m3u
+#EXTINF:-1,Western Sahara
+channels/eh.m3u
+#EXTINF:-1,Yemen
+channels/ye.m3u
+#EXTINF:-1,Zimbabwe
+channels/zw.m3u
